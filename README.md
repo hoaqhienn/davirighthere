@@ -4,11 +4,11 @@
 
 My tools in programming are `Ruby`, `Elixir`, and `Javascript` :p 
 
-Follow me on [Blue Bird](https://twitter.com/asyr0f) 
+Follow me on [Facebook](https://www.facebook.com/hoaqhienn/) 
 
 [![Asyraf](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif)](https://asyrafff.com/)
 
-**asyraffff/asyraffff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **asyraffff/asyraffff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
